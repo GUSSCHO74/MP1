@@ -1,24 +1,28 @@
 .content-card {
-    height: 20vh;
-    width: 40vw;
+    height: 500px;
+    width: 340px;
     margin: auto;
-    margin-top: 10vh;
 }
 .content {
+    margin-top: 200px;
+    padding: 7px;
+    border-radius: 10px;
     border: 2px solid black;
-    padding: 0vw 1vw 0vw 1vw;
     text-align: center;
 }
 .logo {
     position: absolute;
-    margin-top: 10px;
     height: 60px;
     width: 60px;
     background-color: rgb(28, 84, 166);
     display: flex;
     flex-direction: column;
 }
+.crown-icon {
+    height: 24px;
+}
 .circle {
+    margin-top: 3px;
     display: flex;
     margin-left: 2px;
     position: absolute;
@@ -26,7 +30,7 @@
     width: 90%;
     border-radius: 50px;
     border: 1px solid white;    
-    border-top: transparent solid;
+    border-top: transparent;
 }
 .kth {
     position: absolute;
@@ -42,17 +46,18 @@
     margin-left: 10px;
 }
 h1 {
+    margin-top: auto;
+    padding-top: 11px;
     font-size: 5vh;
+    height: 30px;
 }
-.download-text {
-    font-size: 4vh;
-    padding-right: 20px;
+.download {
+    margin: 100px 0 100px 0;
     display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: center;
 }
-img {
-    margin-left: 2vw;
-    height: 34px;
+.download-icon {
+    height: 42px;
     vertical-align: middle;
 }
