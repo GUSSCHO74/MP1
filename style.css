@@ -10,41 +10,6 @@
     border: 2px solid black;
     text-align: center;
 }
-/* .logo {
-    position: absolute;
-    height: 60px;
-    width: 60px;
-    background-color: rgb(28, 84, 166);
-    display: flex;
-    flex-direction: column;
-}
-.crown-icon {
-    height: 24px;
-}
-.circle {
-    margin-left: 2px;
-    margin-top: 3px;
-    display: flex;
-    position: absolute;
-    height: 90%;
-    width: 90%;
-    border-radius: 50px;
-    border: 1px solid white;    
-    border-top: transparent;
-}
-.kth-header {
-    position: absolute;
-    margin-left: 13.5px;
-    margin-top: 22px;
-    color: white;
-}
-.kth-text {
-    font-size: 5px;
-    color: white;
-    width: 40px;
-    margin-top: 10px;
-    margin-left: 10px;
-} */
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: auto;
